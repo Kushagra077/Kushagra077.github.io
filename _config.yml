@@ -22,13 +22,13 @@ repository               : "Kushagra077/kushagra077.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kushagra Pandya"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Machine Learning Engineer"
+  location         : "Rajkot, India"
+  employer         : "TSS Consultancy Pvt Ltd"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "p.kushagra22@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
