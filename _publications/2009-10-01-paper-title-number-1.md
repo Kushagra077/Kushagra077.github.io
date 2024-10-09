@@ -1,7 +1,7 @@
 ---
 title: "Barcode and QR Code Object Detection: An Experimental Study on YOLOv8 Models"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-05-25-barcode-qr-code-object-detection
 excerpt: 'This research evaluates YOLOv8 models for Barcode and QR Code object detection, highlighting the accuracy improvements through model scaling.'
 date: 2024-05-25
