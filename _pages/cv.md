@@ -16,20 +16,18 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **January 2024 - Present: Associate Software Engineer - AI**
+  * **TSS Consultancy Pvt Ltd**
+  * Duties include:
+    - Working with various technologies like Computer Vision, NLP, Vision Transformers, Python, Flask, APIs, Postman, and Docker.
+    - Training models for document classification, document detection, photo matching, and multilingual OCR.
+    - Utilizing the ChatGPT API for address parsing.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **November 2022 - August 2023: Research Intern**
+  * **TSS Consultancy Pvt Ltd**
+  * Duties included:
+    - Working with technologies such as Computer Vision, NLP, NER, and Web Scraping.
   
 Skills
 ======
