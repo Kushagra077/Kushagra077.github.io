@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-*B.Tech in Computer Engineering with Specialization in Artificial Intelligence, Marwadi University, 2024
+* B.Tech in Computer Engineering with Specialization in Artificial Intelligence
+  * Marwadi University, 2024
 
 Work experience
 ======
